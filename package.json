@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CapitalSetu/cspl-models"
+    "url": ""
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/cspl"
+    "registry": "https://registry.npmjs.org"
   },
   "author": "phyniks",
   "license": "ISC",
