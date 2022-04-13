@@ -1,0 +1,23 @@
+{
+  "name": "@capitalsetu/cspl-models",
+  "version": "1.0.2",
+  "description": "A repository to host all the models of capital setu",
+  "main": "index.js",
+  "scripts": {
+     "build": "nest build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CapitalSetu/cspl-models"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/cspl"
+  },
+  "author": "phyniks",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/mongoose": "^9.0.3",
+    "mongoose": "^6.2.10"
+  }
+}
