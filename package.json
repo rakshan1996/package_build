@@ -11,6 +11,10 @@
     "type": "git",
     "url": ""
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rakshan1996/package_build.git"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@rakshan1996"
   },
