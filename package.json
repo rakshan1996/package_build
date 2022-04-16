@@ -12,7 +12,7 @@
     "url": ""
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/@rakshan1996"
   },
   "author": "phyniks",
   "license": "ISC",
