@@ -6,15 +6,7 @@
   "scripts": {
      "build": "nest build",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/rakshan1996/package_build.git"
-  },
+  }
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@rakshan1996"
   },
